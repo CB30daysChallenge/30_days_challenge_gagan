@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Automation challenge", "Automation challenge\Automation challenge.csproj", "{304CCBD8-1118-4D6E-9056-70E94867808F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Todomvc", "Todomvc\Todomvc.csproj", "{F56E6FD5-97E8-4BDD-818E-AB6E917F683F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{304CCBD8-1118-4D6E-9056-70E94867808F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{304CCBD8-1118-4D6E-9056-70E94867808F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{304CCBD8-1118-4D6E-9056-70E94867808F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{304CCBD8-1118-4D6E-9056-70E94867808F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F56E6FD5-97E8-4BDD-818E-AB6E917F683F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F56E6FD5-97E8-4BDD-818E-AB6E917F683F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F56E6FD5-97E8-4BDD-818E-AB6E917F683F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F56E6FD5-97E8-4BDD-818E-AB6E917F683F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
